@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\n8nny\documents\60010421\zombie2\zombie shooter\main.cpp(563): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\n8nny\documents\60010421\zombie2\zombie shooter\main.cpp(632): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\n8nny\documents\60010421\zombie2\zombie shooter\main.cpp(633): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\n8nny\documents\60010421\zombie2\zombie shooter\main.cpp(634): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\n8nny\documents\60010421\zombie2\zombie shooter\main.cpp(640): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\n8nny\documents\60010421\zombie2\zombie shooter\main.cpp(641): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\n8nny\documents\60010421\zombie2\zombie shooter\main.cpp(642): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\n8nny\documents\60010421\zombie2\zombie shooter\main.cpp(643): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\n8nny\documents\60010421\zombie2\zombie shooter\main.cpp(643): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\n8nny\documents\60010421\zombie2\zombie shooter\main.cpp(644): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Zombie Shooter.vcxproj -> C:\Users\N8NNY\Documents\60010421\Zombie2\Debug\Zombie Shooter.exe
